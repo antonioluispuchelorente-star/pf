@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605261312381NIKN6</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260526131238CO8UL2</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>PRODUCTO FINAL</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>COMPETENCIA DIGITAL: B2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Antonio Luis Puche Lorente</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779793869637</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpmjazy2-j8ol8pnty</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRESENTACIÓN DEL PROYECTO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PRESENTACIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmjazy2-j8ol8pnty</odePageId>
+      <odeBlockId>block-1779643086098-w48nfe472</odeBlockId>
+      <blockName>PRESENTACIÓN DEL PROYECTO</blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmjazy2-j8ol8pnty</odePageId>
+          <odeBlockId>block-1779643086098-w48nfe472</odeBlockId>
+          <odeIdeviceId>idevice-1779643086095-7zwu02y94</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Título del proyecto<br />“La industria en España: transformación del territorio, desequilibrios y retos en el marco de la sostenibilidad (ODS)”</p>
+<p>Centro de interés o temática<br />El proyecto se centra en el estudio de la industria en España, viendo cómo ha cambiado a lo largo del tiempo, cómo se distribuye en el territorio y qué desigualdades existen entre unas regiones y otras.</p>
+<p>También se analiza su situación actual, teniendo en cuenta la modernización, la innovación y la sostenibilidad, relacionándolo con los Objetivos de Desarrollo Sostenible (ODS).</p>
+<p>Nivel al que va dirigido<br />2.º de Bachillerato (Geografía de España)</p>
+<p>Temporalización aproximada<br />6 sesiones de 60 minutos </p>
+<p>Materia o materias implicadas</p>
+<p>Geografía de España (principal)<br />Economía (de forma transversal)<br />Historia de España (para el proceso de industrialización y sus cambios)<br />Idioma<br />Castellano</p>
+<p>Descripción general del proyecto<br />El proyecto tiene como objetivo que el alumnado entienda el papel de la industria en la organización del territorio español, tanto en su evolución histórica como en la actualidad.</p>
+<p>Se estudia cómo se ha desarrollado la industrialización en España, por qué no se ha distribuido de forma homogénea y qué consecuencias ha tenido en las distintas regiones. También se analizan los principales factores que explican la localización de la industria, como el transporte, la mano de obra, la tecnología o la inversión</p>
+<p><br />Además, se trabaja la situación actual de la industria, marcada por la globalización, la innovación y la necesidad de adaptación a nuevos modelos productivos más sostenibles.</p>
+<p>De forma transversal, se incorporan los ODS, especialmente los relacionados con la industria sostenible, el empleo de calidad, la innovación y la lucha contra el cambio climático. Con ello, se busca que el alumnado reflexione sobre los retos actuales del modelo industrial español.</p>
+<p>En conjunto, el proyecto pretende que el alumnado no solo adquiera conocimientos, sino que también sea capaz de entender y valorar críticamente la situación de la industria en España y sus desafíos de futuro.</p>
+<p>Justificación del proyecto<br />Este proyecto forma parte de una forma de trabajo habitual en el aula en la que se combinan metodologías activas con el uso de la tecnología, con el objetivo de favorecer una mayor implicación del alumnado en su propio aprendizaje.</p>
+<p>Las actividades se plantean, en su mayoría, en grupo. El alumnado trabaja a partir de materiales proporcionados en clase, buscando información, seleccionandola y organizándola. Para ello se utilizan los portátiles del centro y documentos compartidos, lo que les permite ir construyendo el trabajo de manera colaborativa.</p>
+<p>Durante el desarrollo de las sesiones, el alumnado consulta fuentes, toma apuntes, comenta la organización de los contenidos y va dando forma a productos finales como presentaciones o esquemas. El proceso cuenta con el seguimiento del profesor, que explica la tarea, organiza los grupos y acompaña el trabajo, resolviendo dudas y ayudando a mantener una dinámica adecuada.</p>
+<p>Las situaciones de aprendizaje se llevan a cabo principalmente en el aula, aunque en algunos casos también pueden completarse fuera del centro, según el tipo de actividad.</p>
+<p>El resultado habitual es un trabajo final en grupo que se expone en clase o se comparte mediante herramientas digitales.</p>
+<p>La evaluación se centra en el seguimiento del proceso, el producto final y la participación del alumnado.</p>
+<p>En general, este tipo de dinámica favorece una mayor implicación del alumnado, aunque se necesita prestar gran atención a la organización del trabajo en grupo y al uso autónomo de las herramientas digitales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779643086095-7zwu02y94","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Título del proyecto<br />“La industria en España: transformación del territorio, desequilibrios y retos en el marco de la sostenibilidad (ODS)”</p>\n<p>Centro de interés o temática<br />El proyecto se centra en el estudio de la industria en España, viendo cómo ha cambiado a lo largo del tiempo, cómo se distribuye en el territorio y qué desigualdades existen entre unas regiones y otras.</p>\n<p>También se analiza su situación actual, teniendo en cuenta la modernización, la innovación y la sostenibilidad, relacionándolo con los Objetivos de Desarrollo Sostenible (ODS).</p>\n<p>Nivel al que va dirigido<br />2.º de Bachillerato (Geografía de España)</p>\n<p>Temporalización aproximada<br />6 sesiones de 60 minutos </p>\n<p>Materia o materias implicadas</p>\n<p>Geografía de España (principal)<br />Economía (de forma transversal)<br />Historia de España (para el proceso de industrialización y sus cambios)<br />Idioma<br />Castellano</p>\n<p>Descripción general del proyecto<br />El proyecto tiene como objetivo que el alumnado entienda el papel de la industria en la organización del territorio español, tanto en su evolución histórica como en la actualidad.</p>\n<p>Se estudia cómo se ha desarrollado la industrialización en España, por qué no se ha distribuido de forma homogénea y qué consecuencias ha tenido en las distintas regiones. También se analizan los principales factores que explican la localización de la industria, como el transporte, la mano de obra, la tecnología o la inversión</p>\n<p><br />Además, se trabaja la situación actual de la industria, marcada por la globalización, la innovación y la necesidad de adaptación a nuevos modelos productivos más sostenibles.</p>\n<p>De forma transversal, se incorporan los ODS, especialmente los relacionados con la industria sostenible, el empleo de calidad, la innovación y la lucha contra el cambio climático. Con ello, se busca que el alumnado reflexione sobre los retos actuales del modelo industrial español.</p>\n<p>En conjunto, el proyecto pretende que el alumnado no solo adquiera conocimientos, sino que también sea capaz de entender y valorar críticamente la situación de la industria en España y sus desafíos de futuro.</p>\n<p>Justificación del proyecto<br />Este proyecto forma parte de una forma de trabajo habitual en el aula en la que se combinan metodologías activas con el uso de la tecnología, con el objetivo de favorecer una mayor implicación del alumnado en su propio aprendizaje.</p>\n<p>Las actividades se plantean, en su mayoría, en grupo. El alumnado trabaja a partir de materiales proporcionados en clase, buscando información, seleccionandola y organizándola. Para ello se utilizan los portátiles del centro y documentos compartidos, lo que les permite ir construyendo el trabajo de manera colaborativa.</p>\n<p>Durante el desarrollo de las sesiones, el alumnado consulta fuentes, toma apuntes, comenta la organización de los contenidos y va dando forma a productos finales como presentaciones o esquemas. El proceso cuenta con el seguimiento del profesor, que explica la tarea, organiza los grupos y acompaña el trabajo, resolviendo dudas y ayudando a mantener una dinámica adecuada.</p>\n<p>Las situaciones de aprendizaje se llevan a cabo principalmente en el aula, aunque en algunos casos también pueden completarse fuera del centro, según el tipo de actividad.</p>\n<p>El resultado habitual es un trabajo final en grupo que se expone en clase o se comparte mediante herramientas digitales.</p>\n<p>La evaluación se centra en el seguimiento del proceso, el producto final y la participación del alumnado.</p>\n<p>En general, este tipo de dinámica favorece una mayor implicación del alumnado, aunque se necesita prestar gran atención a la organización del trabajo en grupo y al uso autónomo de las herramientas digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmjazy6-mhsfo5yep</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PROTECCIÓN DATOS PERSONALES</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DATOS PERSONALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DATOS PERSONALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmjazy6-mhsfo5yep</odePageId>
+      <odeBlockId>block-1779643398427-huqm06k0u</odeBlockId>
+      <blockName>PROTECCIÓN DE DATOS</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmjazy6-mhsfo5yep</odePageId>
+          <odeBlockId>block-1779643398427-huqm06k0u</odeBlockId>
+          <odeIdeviceId>idevice-1779643398425-bsccr320b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Captura de pantalla_24-5-2026_192229_.jpeg" width="1411" height="763" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779643398425-bsccr320b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Captura de pantalla_24-5-2026_192229_.jpeg\" width=\"1411\" height=\"763\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmjazy8-oabqrdqcl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CURACIÓN DE CONTENIDOS</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CURACIÓN DE CONTENIDOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CURACIÓN DE CONTENIDOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmjazy8-oabqrdqcl</odePageId>
+      <odeBlockId>block-1779643991207-6sodt4qgf</odeBlockId>
+      <blockName>CURACIÓN DE CONTENIDOS</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmjazy8-oabqrdqcl</odePageId>
+          <odeBlockId>block-1779643991207-6sodt4qgf</odeBlockId>
+          <odeIdeviceId>idevice-1779643991205-rndecj3fr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="LÍNEA DEL TIEMPO" title="">PRIMERA PARTE</a></p>
+<p><a href="https://antonio-luis-puche-lorente.symbaloo.com/home/mix/13eOcXLJUF" title="">SEGUNDA PARTE</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779643991205-rndecj3fr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"LÍNEA DEL TIEMPO\" title=\"\">PRIMERA PARTE</a></p>\n<p><a href=\"https://antonio-luis-puche-lorente.symbaloo.com/home/mix/13eOcXLJUF\" title=\"\">SEGUNDA PARTE</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmjazy9-f3ipt4sv6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmjazy9-f3ipt4sv6</odePageId>
+      <odeBlockId>block-1779645560274-kb28d30pc</odeBlockId>
+      <blockName>GUÍA DIDÁCTICA</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmjazy9-f3ipt4sv6</odePageId>
+          <odeBlockId>block-1779645560274-kb28d30pc</odeBlockId>
+          <odeIdeviceId>idevice-1779645560272-b8eakoist</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://docs.google.com/document/d/1juRiMu3Fn4neB9qWthLJpqV49-q5rdHoiuYetyW6xcc/edit?usp=sharing" title="">GUÍA DIDÁCTICA</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779645560272-b8eakoist","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://docs.google.com/document/d/1juRiMu3Fn4neB9qWthLJpqV49-q5rdHoiuYetyW6xcc/edit?usp=sharing\" title=\"\">GUÍA DIDÁCTICA</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmjazy9-ru7fk6t04</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>LINEA TEMPORAL DE ACTIVIDADES</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LINEA TEMPORAL DE ACTIVIDADES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LINEA TEMPORAL DE ACTIVIDADES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmjazy9-ru7fk6t04</odePageId>
+      <odeBlockId>block-1779643651835-8safph0bl</odeBlockId>
+      <blockName>ACTIVIDADES</blockName>
+      <iconName>sport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmjazy9-ru7fk6t04</odePageId>
+          <odeBlockId>block-1779643651835-8safph0bl</odeBlockId>
+          <odeIdeviceId>idevice-1779643651833-codthael7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://padlet.com/antonioluispuchelorente/tarea-7-u3qwd7rhorosfjtm/slideshow?locale=es" title="">LÍNEA DEL TIEMPO</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779643651833-codthael7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://padlet.com/antonioluispuchelorente/tarea-7-u3qwd7rhorosfjtm/slideshow?locale=es\" title=\"\">LÍNEA DEL TIEMPO</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmjazya-zcvfo73e2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DESCRIPCIÓN PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCIÓN PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCIÓN PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmjazya-zcvfo73e2</odePageId>
+      <odeBlockId>block-1779643564845-4eqb46k88</odeBlockId>
+      <blockName>PRODUCTO FINAL</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmjazya-zcvfo73e2</odePageId>
+          <odeBlockId>block-1779643564845-4eqb46k88</odeBlockId>
+          <odeIdeviceId>idevice-1779643564842-w80nyt1wi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Mi propuesta está pensada para  2º de Bachillerato, en la que el producto final se presenta mediante una exposición realizada con Canva, que también sirve de base para la defensa oral.</p>
+<p>He elegido Canva porque ayuda a organizar la información de forma clara y sencilla, algo clave en este nivel, donde tienen que aprender a explicar ideas complejas sin perderse ni dar rodeos.</p>
+<p>También es una herramienta muy intuitiva, lo que permite que el alumnado se centre en lo importante (entender, seleccionar y explicar bien el contenido), sin distraerse con aspectos técnicos.</p>
+<p>Otro punto fuerte es que permite apoyarse en imágenes, mapas o gráficos, lo que en Geografía resulta muy útil para comprender mejor lo que están trabajando y hacerlo más visual.</p>
+<p>Además, favorece el trabajo colaborativo online, ya que varios alumnos pueden editar el mismo documento al mismo tiempo, lo que facilita la organización, el reparto de tareas y la coordinación sin necesidad de estar siempre juntos.</p>
+<p>En resumen, uso Canva porque les ayuda a ordenar mejor sus ideas, trabajar con más claridad, colaborar de forma sencilla y presentar un resultado cuidado sin complicaciones innecesarias.</p>
+<p>Por añadir una idea más, también considero importante destacar que este tipo de propuesta es especialmente viable en el contexto actual de los centros educativos. En la mayoría de los casos, no se requieren recursos complejos ni específicos, ya que basta con disponer de equipo informático y conexión a internet, algo que hoy en día está bastante generalizado en los institutos.</p>
+<p>Esto facilita mucho su puesta en práctica, porque no depende de medios extraordinarios y puede integrarse con normalidad en el trabajo diario del aula.</p>
+<p>Un saludo.<br /> <br /> <br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779643564842-w80nyt1wi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Mi propuesta está pensada para  2º de Bachillerato, en la que el producto final se presenta mediante una exposición realizada con Canva, que también sirve de base para la defensa oral.</p>\n<p>He elegido Canva porque ayuda a organizar la información de forma clara y sencilla, algo clave en este nivel, donde tienen que aprender a explicar ideas complejas sin perderse ni dar rodeos.</p>\n<p>También es una herramienta muy intuitiva, lo que permite que el alumnado se centre en lo importante (entender, seleccionar y explicar bien el contenido), sin distraerse con aspectos técnicos.</p>\n<p>Otro punto fuerte es que permite apoyarse en imágenes, mapas o gráficos, lo que en Geografía resulta muy útil para comprender mejor lo que están trabajando y hacerlo más visual.</p>\n<p>Además, favorece el trabajo colaborativo online, ya que varios alumnos pueden editar el mismo documento al mismo tiempo, lo que facilita la organización, el reparto de tareas y la coordinación sin necesidad de estar siempre juntos.</p>\n<p>En resumen, uso Canva porque les ayuda a ordenar mejor sus ideas, trabajar con más claridad, colaborar de forma sencilla y presentar un resultado cuidado sin complicaciones innecesarias.</p>\n<p>Por añadir una idea más, también considero importante destacar que este tipo de propuesta es especialmente viable en el contexto actual de los centros educativos. En la mayoría de los casos, no se requieren recursos complejos ni específicos, ya que basta con disponer de equipo informático y conexión a internet, algo que hoy en día está bastante generalizado en los institutos.</p>\n<p>Esto facilita mucho su puesta en práctica, porque no depende de medios extraordinarios y puede integrarse con normalidad en el trabajo diario del aula.</p>\n<p>Un saludo.<br /> <br /> <br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmjazyb-igafo3048</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRITERIOS DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRITERIOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRITERIOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>CRITERIOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmjazyb-igafo3048</odePageId>
+      <odeBlockId>block-1779644216706-p7aksooem</odeBlockId>
+      <blockName>CRITERIOS DE EVALUACIÓN</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmjazyb-igafo3048</odePageId>
+          <odeBlockId>block-1779644216706-p7aksooem</odeBlockId>
+          <odeIdeviceId>idevice-1779644216703-z0dzvauwa</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>  <a href="https://docs.google.com/document/d/1ThDuwLZNkL9ja_vObujOyR3jzNEBEPJ0cc4iJw4DsY0/edit?usp=sharing" title="">CRITERIOS DE EVALUACIÓN</a></p>
+<p><br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779644216703-z0dzvauwa","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>  <a href=\"https://docs.google.com/document/d/1ThDuwLZNkL9ja_vObujOyR3jzNEBEPJ0cc4iJw4DsY0/edit?usp=sharing\" title=\"\">CRITERIOS DE EVALUACIÓN</a></p>\n<p><br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmjazyb-vd3v6fzfc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INSTRUMENTOS DE EVALUACIÓN </pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INSTRUMENTOS DE EVALUACIÓN </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INSTRUMENTOS DE EVALUACIÓN </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmjazyb-vd3v6fzfc</odePageId>
+      <odeBlockId>block-1779644379243-59o6ktbuw</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmjazyb-vd3v6fzfc</odePageId>
+          <odeBlockId>block-1779644379243-59o6ktbuw</odeBlockId>
+          <odeIdeviceId>idevice-1779644379242-6vivxswih</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://docs.google.com/document/d/1SJ3NCjE6KPJX6aXVaoDznfrH-hbelKb7l-OFE1SsdJo/edit?usp=sharing" title="">DIANA</a></p>
+<p><a href="https://docs.google.com/document/d/1yvsL1wgWduFtCa-_nHOgTs406wxzOhGFtAS-Txbkn90/edit?usp=sharing" title="">RÚBRICA</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779644379242-6vivxswih","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://docs.google.com/document/d/1SJ3NCjE6KPJX6aXVaoDznfrH-hbelKb7l-OFE1SsdJo/edit?usp=sharing\" title=\"\">DIANA</a></p>\n<p><a href=\"https://docs.google.com/document/d/1yvsL1wgWduFtCa-_nHOgTs406wxzOhGFtAS-Txbkn90/edit?usp=sharing\" title=\"\">RÚBRICA</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpmjazyc-58la3zjtu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>NODO FINAL</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>NODO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>NODO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpmjazyc-58la3zjtu</odePageId>
+      <odeBlockId>block-1779710911304-9qqo1f5qu</odeBlockId>
+      <blockName>NODO FINAL</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpmjazyc-58la3zjtu</odePageId>
+          <odeBlockId>block-1779710911304-9qqo1f5qu</odeBlockId>
+          <odeIdeviceId>idevice-1779710911303-2tnt3njsa</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">PRODUCTO FINAL</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Antonio Luis Puche Lorente</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
